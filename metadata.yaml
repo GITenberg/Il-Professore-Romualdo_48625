@@ -1,4 +1,8 @@
 _repo: Il-Professore-Romualdo_48625
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48625-h/images/cover.jpg
 creator:
   author:
     agent_name: Castelnuovo, Enrico
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8678
     wikipedia: http://en.wikipedia.org/wiki/Enrico_Castelnuovo
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48625#Il-Professore-Romualdo
 gutenberg_bookshelf: IT Romanzi
 gutenberg_issued: '2015-04-03'
 gutenberg_type: Text
